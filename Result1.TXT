@@ -1,0 +1,3 @@
+controlNo: 40 credits
+DataNo: 30 credits
+OutputNo: 30 credits
